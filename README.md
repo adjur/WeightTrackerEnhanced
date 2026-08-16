@@ -6,11 +6,28 @@ The project demonstrates software engineering, algorithms and data structures, r
 
 ## App Preview
 
-![Main screen](assets/main-screen.png)
+### Main Screens
 
-![Weight history](assets/history-screen.png)
+<p align="center">
+  <img src="screenshots/MainScreen.png" width="280">
+  <img src="screenshots/WeightHistory.png" width="280">
+</p>
 
-![Settings and themes](assets/settings-screen.png)
+### Theme Options
+
+<p align="center">
+  <img src="screenshots/LightTheme.png" width="220">
+  <img src="screenshots/DarkTheme.png" width="220">
+</p>
+
+<p align="center">
+  <img src="screenshots/ForestTheme.png" width="220">
+  <img src="screenshots/OceanTheme.png" width="220">
+</p>
+
+<p align="center">
+  <img src="screenshots/WeightTracker.png" width="280">
+</p>
 
 ## Features
 
