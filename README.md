@@ -16,13 +16,10 @@ The project demonstrates software engineering, algorithms and data structures, r
 ### Theme Options
 
 <p align="center">
-  <img src="screenshots/LightTheme.png" width="220">
-  <img src="screenshots/DarkTheme.png" width="220">
-</p>
-
-<p align="center">
-  <img src="screenshots/ForestTheme.png" width="220">
-  <img src="screenshots/OceanTheme.png" width="220">
+  <img src="screenshots/LightTheme.png" width="200">
+  <img src="screenshots/DarkTheme.png" width="200">
+  <img src="screenshots/ForestTheme.png" width="200">
+  <img src="screenshots/OceanTheme.png" width="200">
 </p>
 
 ## Features
