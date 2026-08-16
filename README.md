@@ -9,7 +9,7 @@ The project demonstrates software engineering, algorithms and data structures, r
 ### Main Screens
 
 <p align="center">
-  <img src="screenshots/MainScreen.png" width="280">
+  <img src="screenshots/WeightTracker.png" width="280">
   <img src="screenshots/WeightHistory.png" width="280">
 </p>
 
@@ -23,10 +23,6 @@ The project demonstrates software engineering, algorithms and data structures, r
 <p align="center">
   <img src="screenshots/ForestTheme.png" width="220">
   <img src="screenshots/OceanTheme.png" width="220">
-</p>
-
-<p align="center">
-  <img src="screenshots/WeightTracker.png" width="280">
 </p>
 
 ## Features
